@@ -1,0 +1,17 @@
+Shipment_ID,Delivery_Time,Transportation_Cost,Shipping_Mode,Quantity,Distance,Delivery_Status
+S001,5,1200,Air,10,500,Delivered
+S002,7,1500,Road,15,700,Delivered
+S003,,1800,Air,20,900,Delayed
+S004,4,,Rail,12,400,Delivered
+S005,6,1400,Road,18,650,Delivered
+S006,8,2000,Air,25,1100,Delayed
+S007,5,1300,air,14,550,Delivered
+S008,50,2500,Road,30,800,Delayed
+S009,3,1000,Rail,8,300,Delivered
+S010,7,1600,,16,750,Delivered
+S011,6,1450,Road,18,650,Delivered
+S012,5,1200,Air,10,500,Delivered
+S012,5,1200,Air,10,500,Delivered
+S013,9,2200,Sea,22,1500,Delayed
+S014,4,1100,rail,11,350,Delivered
+S015,6,1700,Road,19,850,Delivered
